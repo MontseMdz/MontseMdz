@@ -1,7 +1,6 @@
 ### Hi, I'm Montserrat 👋
-<!--
-![632a79db-e141-44e8-af54-11acd2c7a5b2](https://user-images.githubusercontent.com/63829756/154180365-38afbdbb-fdb3-451e-a7aa-83ad64c1263d.jpg)
---!>
+
+<!-- ![632a79db-e141-44e8-af54-11acd2c7a5b2](https://user-images.githubusercontent.com/63829756/154180365-38afbdbb-fdb3-451e-a7aa-83ad64c1263d.jpg) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTML, CSS, SQL, MYSQL, SASS
